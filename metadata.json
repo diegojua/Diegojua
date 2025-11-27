@@ -1,0 +1,5 @@
+{
+  "name": "Matrícula de alunos na escola de reforço escolar",
+  "description": "A comprehensive system for registering students and their guardians for a tutoring school, featuring an AI-powered initial study plan generator.",
+  "requestFramePermissions": []
+}
